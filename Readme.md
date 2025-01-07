@@ -13,7 +13,7 @@ Um aplicativo simples de gerador de senhas, desenvolvido com **Python** e **Tkin
 
 ## **Tecnologias Utilizadas**
 
-- **Python 3.x**  
+- **Python 3.10.12**  
 - **Tkinter** 
 - **Secrets** 
 
@@ -27,7 +27,7 @@ Um aplicativo simples de gerador de senhas, desenvolvido com **Python** e **Tkin
    ```
 2. Navegue até o diretório:  
    ```bash
-   cd Password-Generato
+   cd Password-Generator
    ```
 3. Instale os requisitos:  
    ```bash
@@ -42,7 +42,7 @@ Um aplicativo simples de gerador de senhas, desenvolvido com **Python** e **Tkin
 
 ##  **Captura de Tela**
 
-captura de tela aqui
+![screenshot](screenshot.png)
 
 ---
 
@@ -60,9 +60,9 @@ Contribuições são bem-vindas! Siga os passos:
 
 ## **Autor**
 
-- **Seu Nome**  
+- **Felippy Paiva**  
 - [GitHub](https://github.com/FelippyGP)  
-- [LinkedIn](https://linkedin.com/in/seu-usuario)  
+- [LinkedIn](https://www.linkedin.com/in/felippy-paiva-437b282b2/)  
 
 ---
 
